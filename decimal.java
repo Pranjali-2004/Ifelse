@@ -1,5 +1,6 @@
 public class decimal {
     public static void main(String[]args){
+        //convert decimal no. to binary number
         String b= " ";
         int n= 93;
         int t=n;
